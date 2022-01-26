@@ -1,3 +1,8 @@
 - As a customer, so I can receive my tickets, I want to provide my contact information.
 - As a customer, so I can decide which movie I want to watch, I want to see a list of movies.
+- As a customer, so i can book tickets for my friends also to come with me to the cinema i have to provide their contact details.
+- As a customer, so book ticket for multiple movies based on the time they are showing, i want to see list of movies and time they are showing
 - As an admin, so I can manage the movies shown at the cinema, I want to update the list of movies.
+- As an admin, so i can show different movies on the same screen,i should be able to update movies based on the the date and time they are showing.
+- As an admin, so i can keep record of customers and the ticket they purchase, i should have a unique id number for tickets and customers
+- As an admin, so i can always have curent movies for my customers, i have to update my movies basd on the year.
